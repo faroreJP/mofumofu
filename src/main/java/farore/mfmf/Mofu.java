@@ -25,7 +25,7 @@ public class Mofu {
     public static Random rand = new Random();
 
     @Mod.Instance
-    public static Object obj;
+    public static Object instance;
 
     public static CreativeTabs tabMain;
 
